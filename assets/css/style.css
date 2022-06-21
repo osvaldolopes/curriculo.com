@@ -8,8 +8,6 @@ body {
 }
 
 .barra tr td {
-    border: solid;   
-    border-width: 1px; 
     width: 60mm;    
     height: 295mm;
     background: rgb(29, 29, 29);
@@ -18,20 +16,22 @@ body {
 .barra {
     color: #cfcece;
     text-align: center;
-    text-align: left;
-    
+    text-align: left;    
 }
 
 .barra h2 {
-    margin-top: -50mm;
-    text-align: center;  
-    color: rgb(117, 117, 117); 
+    margin-top: -100mm;
+    margin-left: 6mm;
+    color: rgb(117, 117, 117);
+    font-family: "Helvetica Neue",Helvetica,Arial; 
 }
 
 .barra p {    
     margin-left: 6mm;
     text-align: left; 
     width: 50mm;    
+    font-size: 11px;
+    font-family: "Helvetica Neue",Helvetica,Arial;
 }
 
 .escopo { 
@@ -50,9 +50,25 @@ body {
     font-weight: 700;
 }
 
+.links {
+    margin-top: 10mm;
+    font-weight: 700;
+    margin-left: 6mm;
+    font-size: 24px;
+    color: rgb(117, 117, 117);
+    font-family: "Helvetica Neue",Helvetica,Arial; 
+}
+
+.links p {  
+    margin-left: 0mm;  
+    font-size: 12px;
+    color: #cfcece;
+    font-family: "Helvetica Neue",Helvetica,Arial; 
+}
+
 .whatsapp {
     margin-top: -25mm; 
-    margin-left: 230mm;
+    margin-left: 160mm;
     font-size: 12px;
     font-family: "Helvetica Neue",Helvetica,Arial;
     font-weight: 700;
