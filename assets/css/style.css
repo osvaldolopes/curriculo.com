@@ -1,0 +1,64 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.container {
+    width: 100%;
+}
+
+.barra tr td {
+    border: solid;   
+    border-width: 1px; 
+    width: 60mm;    
+    height: 295mm;
+    background: rgb(29, 29, 29);
+}
+
+.barra {
+    color: #cfcece;
+    text-align: center;
+    text-align: left;
+    
+}
+
+.barra h2 {
+    margin-top: -50mm;
+    text-align: center;  
+    color: rgb(117, 117, 117); 
+}
+
+.barra p {    
+    margin-left: 6mm;
+    text-align: left; 
+    width: 50mm;    
+}
+
+.escopo { 
+    margin-top: -290mm; 
+    margin-left: 70mm;  
+    font-size: 24px;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    font-weight: 700;
+}
+
+.escopo p { 
+    margin-top: 0;
+    color: #3d3f27; 
+    font-size: 12px;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    font-weight: 700;
+}
+
+.whatsapp {
+    margin-top: -25mm; 
+    margin-left: 230mm;
+    font-size: 12px;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    font-weight: 700;
+    color: #3d3f27;
+}
+
+.whatsapp tr td{
+    padding: 6px;
+}
