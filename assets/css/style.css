@@ -7,6 +7,17 @@ body {
     width: 100%;
 }
 
+.photo {
+    margin-top: 3mm;
+    margin-left: 9mm;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.photo img {
+    border-radius: 50%;
+}
+
 .barra tr td {
     width: 60mm;    
     height: 295mm;
@@ -20,7 +31,7 @@ body {
 }
 
 .barra h2 {
-    margin-top: -100mm;
+    margin-top: -70mm;
     margin-left: 6mm;
     color: rgb(117, 117, 117);
     font-family: "Helvetica Neue",Helvetica,Arial; 
