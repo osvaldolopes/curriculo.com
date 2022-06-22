@@ -31,7 +31,7 @@ body {
 }
 
 .barra h2 {
-    margin-top: -70mm;
+    margin-top: -20mm;
     margin-left: 6mm;
     color: rgb(117, 117, 117);
     font-family: "Helvetica Neue",Helvetica,Arial; 
@@ -77,6 +77,22 @@ body {
     font-family: "Helvetica Neue",Helvetica,Arial; 
 }
 
+.obj {  
+    margin-top: 10mm;
+    font-weight: 700;
+    font-size: 24px;
+    margin-left: 6mm;
+    color: rgb(117, 117, 117);
+    font-family: "Helvetica Neue",Helvetica,Arial;
+}
+
+.obj p {  
+    margin-left: 0mm;  
+    font-size: 12px;
+    color: #cfcece;
+    font-family: "Helvetica Neue",Helvetica,Arial; 
+}
+
 .whatsapp {
     margin-top: -25mm; 
     margin-left: 160mm;
@@ -88,4 +104,31 @@ body {
 
 .whatsapp tr td{
     padding: 6px;
+}
+
+.separar {
+    margin-top: 10mm;
+    margin-left: 70mm;
+    width: 135mm;
+}
+
+.section {   
+    margin-top: 8mm;
+    margin-left: 70mm;
+    font-size: 20px;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    font-weight: 700;
+    color: #3d3f27;
+}
+
+.section p { 
+    margin-top: 1px;
+  
+}
+
+.section tr td{ 
+    padding: 8px;
+    margin-left: 70mm;
+    font-size: 14px;
+    font-family: "Helvetica Neue",Helvetica,Arial;   
 }
