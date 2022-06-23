@@ -18,26 +18,26 @@ body {
     border-radius: 50%;
 }
 
-.barra tr td {
+.side tr td {
     width: 60mm;    
     height: 295mm;
     background: rgb(29, 29, 29);
 }
 
-.barra {
+.side {
     color: #cfcece;
     text-align: center;
     text-align: left;    
 }
 
-.barra h2 {
+.side h2 {
     margin-top: -20mm;
     margin-left: 6mm;
     color: rgb(117, 117, 117);
     font-family: "Helvetica Neue",Helvetica,Arial; 
 }
 
-.barra p {    
+.side p {    
     margin-left: 6mm;
     text-align: left; 
     width: 50mm;    
@@ -45,7 +45,7 @@ body {
     font-family: "Helvetica Neue",Helvetica,Arial;
 }
 
-.escopo { 
+.top { 
     margin-top: -290mm; 
     margin-left: 70mm;  
     font-size: 24px;
@@ -53,7 +53,7 @@ body {
     font-weight: 700;
 }
 
-.escopo p { 
+.top p { 
     margin-top: 0;
     color: #3d3f27; 
     font-size: 12px;
@@ -106,7 +106,7 @@ body {
     padding: 6px;
 }
 
-.separar {
+.bar {
     margin-top: 10mm;
     margin-left: 70mm;
     width: 135mm;
